@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Achievementsof.life</title>
+        <title>summary2023.life</title>
         <meta name="description" content="Document all your achievements." />
         <link rel="icon" href="/achievements.svg" />
       </Head>
